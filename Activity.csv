@@ -1,0 +1,37 @@
+Name ,System,Scheduled Date,Status
+Soft Close,RevStream,2017-04-06,Completed
+Soft Close,RevStream,2017-04-06,Completed
+AP Close,SAP,2017-04-06,Completed
+AP Close,SAP BI,2017-04-06,Completed
+Ad-hoc,Hyperion,2017-04-06,Completed
+AR Soft Close,Hyperion,2017-04-07,Completed
+Console Run,Hyperion,2017-04-07,Completed
+Accural Calc,SAP,2017-04-07,Completed
+Ad-hoc,Hyperion,2017-04-07,Completed
+Booking,Booking Snapshot,2017-04-08,In-progress
+Weekend Locking Calc and Extract ,Commission,2017-04-08,In-progress
+ GL Transfer for Standard Workbench,RevStream,2017-04-08,In-progress
+Soft Close,RevStream,2017-04-08,In-progress
+ PSO Prelim Close,RevStream,2017-04-09,In-progress
+AP Close,SAP,2017-04-09,In-progress
+AP Close,SAP BI,2017-04-09,In-progress
+Ad-hoc,Hyperion,2017-04-09,In-progress
+AR Soft Close,Hyperion,2017-04-09,In-progress
+Console Run,Hyperion,2017-04-10,In-progress
+Accural Calc,SAP,2017-04-10,In-progress
+Ad-hoc,Hyperion,2017-04-10,In-progress
+Booking,Booking Snapshot,2017-04-10,In-progress
+Weekend Locking Calc and Extract ,Commission,2017-04-11,In-progress
+ GL Transfer for Standard Workbench,RevStream,2017-04-11,In-progress
+Soft Close,RevStream,2017-04-11,In-progress
+ PSO Prelim Close,RevStream,2017-04-12,In-progress
+AP Close,SAP,2017-04-12,In-progress
+AP Close,SAP BI,2017-04-12,In-progress
+AP Close,Hyperion,2017-04-12,In-progress
+AR Soft Close,Hyperion,2017-04-12,In-progress
+Console Run,Hyperion,2017-04-13,In-progress
+Accural Calc,SAP,2017-04-13,In-progress
+Ad-hoc,Hyperion,2017-04-13,In-progress
+Booking,Booking Snapshot,2017-04-14,In-progress
+Weekend Locking Calc and Extract ,Commission,2017-04-14,In-progress
+ GL Transfer for Standard Workbench,RevStream,2017-04-14,In-progress
