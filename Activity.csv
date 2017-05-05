@@ -13,14 +13,14 @@ Accrual Calc,Commission,2017-05-05,In progress
 "3AM,9AM,3PM Scheduled Runs",Hyperion,2017-04-28,Completed
 Weekend Locking Calc and Extract ,Commission,2017-04-27,Completed
 Soft Close,RevStream,2017-05-05,Completed
- GL Transfer for Standard&SPP Workbench,RevStream,2017-05-05,Completed
+ GL Transfer for Standard&SPP Workbench,RevStream,2017-05-06,Completed
 AR Subledger Close,AR,2017-04-20,Completed
 Console Run,Hyperion,2017-05-05,Completed
 Accural Calc,SAP,2017-05-05,Completed
 Ad-hoc,Hyperion,2017-05-05,Completed
 Booking,Booking Snapshot,2017-05-06,In progress
 Weekend Locking Calc and Extract ,Commission,2017-05-06,In progress
- GL Transfer for Standard Workbench,RevStream,2017-05-06,In progress
+ GL Transfer for Standard Workbench,RevStream,2017-05-07,In progress
 Soft Close,RevStream,2017-05-06,In progress
 Accural Snapshot,SAP BI,2017-05-06,In progress
 FA (IE) Close,SAP,2017-05-06,In progress
