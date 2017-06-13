@@ -4862,7 +4862,8 @@
                     var obj = servers[i];
                     var serverid = obj.serverid;
                     var servername = obj.servername;
-                    var username = decodeURIComponent(obj.username);
+                    var username = decodeURIComponent(obj.username);  
+					var fullName = decodeURIComponent(obj.fullName);
                     var vmcount = obj.vmcount;
 
                     var islicensed = obj.islicensed;
@@ -4991,6 +4992,18 @@
                                 style: "padding-left:5px;display:inline-block;",
                                 class: "truncate",
                                 value: servername
+                            }]
+                        },
+
+							{
+                            id: "",
+                            style: "width:15%;",
+                            rowValue: [{
+                                id: "",
+                                style: "padding-left:5px;max-width:220px;",
+                                title: fullName,
+                                class: "truncate",
+                                value: fullName
                             }]
                         }, 
 						
